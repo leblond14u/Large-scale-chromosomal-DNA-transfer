@@ -1,4 +1,4 @@
-# Conjugative chromosome blending drives diversification of antibiotic biosynthetic gene clusters in Streptomyces
+# Conjugation mediates large-scale chromosomal transfer in Streptomyces driving diversification of antibiotic biosynthetic gene clusters
 Caroline Choufa<sup>1</sup>, Pauline Gascht<sup>1</sup>, Hugo Leblond<sup>1</sup>, Anthony Gauthier<sup>1</sup>, Michiel Vos<sup>2</sup>, Cyril Bontemps<sup>1*</sup>, Pierre Leblond<sup>1*</sup>
 
 <sup>1</sup>Université de Lorraine, INRAe, DynAMic, F-54000, Nancy, France.
